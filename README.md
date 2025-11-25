@@ -1,3 +1,4 @@
+<div style="background-color: #000000; padding: 20px; border-radius: 10px; color: white;">
 <!-- 3D Animated Professional Profile Header -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&center=true&vCenter=true&width=1000&height=80&duration=4000&lines=👋+Hi%2C+I'm+Vankiri+Siva+Prasad;AI+%26+Full-Stack+Developer;GenAI+Pioneer+%26+LLM+Expert" alt="Typing Animation" />
@@ -259,5 +260,8 @@ I'm always excited to discuss:
 
 **Made with ❤️ by [Vankiri Siva Prasad](https://v-shivaprasad.web.app)**  
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-November%202025-brightgreen?style=flat-square)
+
+</div>
+
 
 </div>
